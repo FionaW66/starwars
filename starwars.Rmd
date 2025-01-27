@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Starwars characters"
-author: "YOU"
+author: "Fiona Wang"
 date: "`r Sys.Date()`"
 output: 
   html_document: 
